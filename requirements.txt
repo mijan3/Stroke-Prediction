@@ -6,3 +6,4 @@ matplotlib
 pandas
 flask
 flask_cors
+joblib
